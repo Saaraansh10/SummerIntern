@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SummerIntern/static/css/main.d632cea3.css",
+    "main.js": "/SummerIntern/static/js/main.114ba7d7.js",
+    "static/media/portfolio5.png": "/SummerIntern/static/media/portfolio5.1cd07a20694e97171adc.png",
+    "static/media/about16.jpg": "/SummerIntern/static/media/about16.470240db2096698395e8.jpg",
+    "static/media/about11.jpg": "/SummerIntern/static/media/about11.3a124e66757ab5721173.jpg",
+    "static/media/portfolio2.jpg": "/SummerIntern/static/media/portfolio2.9fed8153f8825862fbff.jpg",
+    "static/media/about12.jpg": "/SummerIntern/static/media/about12.e577c898efdb642c483d.jpg",
+    "static/media/portfolio4.jpg": "/SummerIntern/static/media/portfolio4.c306a007f40eb336f83d.jpg",
+    "static/media/about14.jpg": "/SummerIntern/static/media/about14.60695a15e079f6dce768.jpg",
+    "static/media/Saaraansh_Mishra_Resume_(updated_14_Oct).pdf": "/SummerIntern/static/media/Saaraansh_Mishra_Resume_(updated_14_Oct).4aeab11308898149ffbb.pdf",
+    "static/media/portfolio1.jpg": "/SummerIntern/static/media/portfolio1.3b993978602e15bb4104.jpg",
+    "static/media/portfolio6.jpg": "/SummerIntern/static/media/portfolio6.f01d9210581ef41ec486.jpg",
+    "static/media/about13.jpeg": "/SummerIntern/static/media/about13.0850d565a95201d16178.jpeg",
+    "static/media/portfolio3.jpg": "/SummerIntern/static/media/portfolio3.8e73bfd996020f8c1b4c.jpg",
+    "index.html": "/SummerIntern/index.html",
+    "main.d632cea3.css.map": "/SummerIntern/static/css/main.d632cea3.css.map",
+    "main.114ba7d7.js.map": "/SummerIntern/static/js/main.114ba7d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d632cea3.css",
+    "static/js/main.114ba7d7.js"
+  ]
+}
